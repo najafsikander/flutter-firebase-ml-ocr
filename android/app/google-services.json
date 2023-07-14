@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942438937326",
+    "project_id": "flutter-ocr-4808f",
+    "storage_bucket": "flutter-ocr-4808f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942438937326:android:bea70c5286ed8ddb1239ff",
+        "android_client_info": {
+          "package_name": "com.najaf.flutterOCR.flutter_ocr_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942438937326-e5mcalhb70ppgm1qag4i736oval9jrqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhIOD-nTCOqHCR7ZscW2EfgmhIpMh-Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942438937326-e5mcalhb70ppgm1qag4i736oval9jrqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
